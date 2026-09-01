@@ -32,4 +32,4 @@ Python, NumPy, Pandas
 
 ---
 
-Full write-up: final coursework.pdf
+Full write-up: [final coursework.pdf](https://github.com/JamesaCook5/Cardiovascular-Risk-Prediction-System/blob/main/final%20coursework.pdf)
